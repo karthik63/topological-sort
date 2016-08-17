@@ -57,8 +57,6 @@ int main()
 	
 	tp();
 	
-	cout<<"gay\n";
-	
 	while(!sorted.empty())
     {
         cout<<sorted.top()<<endl;    
